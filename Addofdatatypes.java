@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Prog3 {
+public class adddatatypes {
     public static void main(String[] arg)
     {
         Scanner sc=new Scanner(System.in);
