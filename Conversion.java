@@ -1,4 +1,4 @@
-public class Prog2 {
+public class conversion {
     public static void main(String[] arg)
 {
 //        short a=4;
