@@ -18,6 +18,22 @@ public class R192210315 {
         else
           leap = false;
       }
+      
+      
+      else
+        leap = true;
+    }
+    
+    else
+      leap = false;
+
+    if (leap)
+      System.out.println(year + " is a leap year.");
+    else
+      System.out.println(year + " is not a leap year.");
+  }
+}
+
 
 
       output:
